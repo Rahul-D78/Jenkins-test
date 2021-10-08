@@ -3,3 +3,5 @@ used to test travy ci
 finally
 new1
 uname
+trivy added
+
